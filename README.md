@@ -1,8 +1,8 @@
-#<h1>**Student Lifestyle Clustering App**</h1>
+<h1>**Student Lifestyle Clustering App**</h1>
 ---
 This project uses **K-Means clustering** to classify different types of student lifestyles based on daily habits and academic indicators.␣␣
 
-👉 **Live Demo（right now it is in Chinese version)␣␣
+👉 **Live Demo（right now it is in Chinese version)
 Here is the link for experiencing
 https://genesisthebeginning.streamlit.app/
 
@@ -13,7 +13,7 @@ The technology that I used:
 - pandas, numpy
 
 The introduction of the dataset:
-"student_lifestyle_dataset.csv" is the dataset that I am using.␣␣
+"student_lifestyle_dataset.csv" is the dataset that I am using.
 The main variables are:␣␣
 - Study_Hours_Per_Day  
 - Extracurricular_Hours_Per_Day  
