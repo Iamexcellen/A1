@@ -2,7 +2,7 @@
 ---
 ##This project uses **K-Means clustering** to classify different types of student lifestyles based on daily habits and academic indicators.␣␣
 
-👉 **Live Demo（right now it is in Chinese version)**
+👉 **Live Demo（right now it is in Chinese version)**  ␣␣
 Here is the link for experiencing
 https://genesisthebeginning.streamlit.app/
 ---
